@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\bin\Debug\net6.0\tpmodul7_group5.exe
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\bin\Debug\net6.0\tpmodul7_group5.deps.json
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\bin\Debug\net6.0\tpmodul7_group5.runtimeconfig.json
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\bin\Debug\net6.0\tpmodul7_group5.dll
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\bin\Debug\net6.0\tpmodul7_group5.pdb
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.AssemblyInfo.cs
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.dll
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\refint\tpmodul7_group5.dll
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.pdb
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\tpmodul7_group5.genruntimeconfig.cache
+C:\Users\acer\source\repos\tpmodul7_group5\tpmodul7_group5\obj\Debug\net6.0\ref\tpmodul7_group5.dll
