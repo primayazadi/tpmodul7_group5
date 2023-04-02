@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\bin\Debug\net6.0\TP_MODUL7_1302213035.exe
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\bin\Debug\net6.0\TP_MODUL7_1302213035.deps.json
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\bin\Debug\net6.0\TP_MODUL7_1302213035.runtimeconfig.json
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\bin\Debug\net6.0\TP_MODUL7_1302213035.dll
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\bin\Debug\net6.0\TP_MODUL7_1302213035.pdb
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.csproj.AssemblyReference.cache
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.AssemblyInfo.cs
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.dll
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\refint\TP_MODUL7_1302213035.dll
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.pdb
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\TP_MODUL7_1302213035.genruntimeconfig.cache
+C:\Users\asus\Documents\TUGAS ADEK\SEMESTER 4\KPL\TP\tpmodul7_group5\TP_MODUL7_1302213035\obj\Debug\net6.0\ref\TP_MODUL7_1302213035.dll
